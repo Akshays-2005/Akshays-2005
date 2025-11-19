@@ -1,5 +1,8 @@
+# Hi there 👋, I'm Akshay S
+🎓 CSE Student at BMS College of Engineering<br><br>🚀 Passionate about Full-Stack Web Development, AI, and Building Impactful Tech Solutions<br>
+
 # 💫 About Me:
-🎓 CSE Student at BMS College of Engineering<br><br>🚀 Passionate about Full-Stack Web Development, AI, and Building Impactful Tech Solutions<br><br>🧠 I love solving real-world problems through technology<br><br>🤖 Built EduBuddy, FarmAI and NeuroLock — AI-powered applications tackling education, agritech and cybersecurity challenges<br><br>🧑‍💻 Experienced in hackathons — including JSS Navotthana, Hackphasia, and multiple tech challenges<br><br>📈 Always exploring AI, ML, and DSA
+🧠 I love solving real-world problems through technology<br><br>🤖 Built EduBuddy, FarmAI and NeuroLock — AI-powered applications tackling education, agritech and cybersecurity challenges<br><br>🧑‍💻 Experienced in hackathons — including JSS Navotthana, Hackphasia, and multiple tech challenges<br><br>📈 Always exploring AI, ML, and DSA
 
 
 ## 🌐 Socials:

@@ -89,8 +89,8 @@ Unix Shell + Python automation project with bill generation and email confirmati
 
 # 💻 Coding Profiles
 
-[![LeetCode](https://img.shields.io/badge/LeetCode-000?style=for-the-badge&logo=leetcode&logoColor=FFA116)](https://leetcode.com/u/Akshays2005/)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)](https://github.com/Akshays-2005)
+[![LeetCode](https://img.shields.io/badge/LeetCode-000?style=for-the-badge&logo=leetcode&logoColor=FFA116)](https://leetcode.com/u/Akshays-2005/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)](https://github.com/Akshays-2005/)
 
 # 📊 GitHub Stats
 
